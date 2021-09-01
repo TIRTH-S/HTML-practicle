@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color:rgb(17, 97, 100);
+    font-style: oblique;
+    padding: 5px;
+    background-image: url(bg2.jpg);
+}
+
+h3{
+    text-align: center;
+    color:rgb(221, 35, 35);
+    font-style:normal;
+    padding: 0px;
+}
+h4{
+    color:rgb(221, 35, 35);
+    font-style:normal;
+    font-size: 15px;
+}
+
+table, th, td {
+  border:1px solid black;
+}
+th
+{width:20%
+   
+}
+td{
+    text-align: center;
+    padding-bottom:5px
+}
